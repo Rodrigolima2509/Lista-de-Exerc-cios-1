@@ -1,6 +1,6 @@
 Lista de Exercícios 01: Estruturas Básicas
 [+PraTi & Codifica Edu]
-Este projeto é a entrega da lista de exercícios 01 do curso Dev. Full Stack Jr. (+PraTi & Codifica), feito em JavaScript com Node.js. Os exercícios são nomeados com o padrão exer[nº].js, sendo nº o número do exercício, que vai de 01 até 15.
+Este projeto é a entrega da lista de exercícios 01 do curso Dev. Full Stack Jr. (+PraTi & Codifica), feito em JavaScript com Node.js. Os exercícios são nomeados com o padrão exer[nº].js, sendo nº o número do exercício, que vai do 01 ao 15.
 
 Exemplo: exer01.js;
 
